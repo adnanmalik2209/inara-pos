@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Inara POS System',
-  description: 'Inara Management System,
+  description: 'Inara Management System'
   
 }
 
